@@ -1,0 +1,37 @@
+[
+	{
+		"state": "NC",
+		"location": "Raleigh",
+		"temp": 93,
+		"description": "A hot summer day in Raleigh, NC!",
+		"date": "2022-03-01T18:55:31Z"
+	},
+	{
+		"state": "NC",
+		"location": "Raleigh",
+		"temp": 23,
+		"description": "Wow that's weird, it got really cold",
+		"date": "2022-03-02T18:55:31Z"
+	},
+	{
+		"state": "NC",
+		"location": "Raleigh",
+		"temp": 85,
+		"description": "Hot again",
+		"date": "2022-03-03T18:55:31Z"
+	},
+	{
+		"state": "NC",
+		"location": "Raleigh",
+		"temp": 2,
+		"description": "What?",
+		"date": "2022-03-04T18:55:31Z"
+	},
+	{
+		"state": "NC",
+		"location": "Raleigh",
+		"temp": 95,
+		"description": "That's more like it",
+		"date": "2022-03-05T18:55:31Z"
+	}
+]
